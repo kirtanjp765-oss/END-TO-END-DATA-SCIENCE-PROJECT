@@ -44,3 +44,4 @@ Conclusion:
 End-to-end data science combines technical skills, domain knowledge, and analytical thinking to convert raw data into actionable intelligence. Each stage—from data collection and cleaning to modeling and deployment—must be executed carefully to ensure reliability and reproducibility. Successful projects not only achieve high predictive accuracy but also provide interpretable insights that drive meaningful outcomes
 
 *OUTPUT* :
+<img width="748" height="215" alt="Image" src="https://github.com/user-attachments/assets/531e3dc1-043e-42cc-ad35-187101e2d08c" />
